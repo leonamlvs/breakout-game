@@ -16,7 +16,9 @@ Play instantly in your browser — no download required.
 
 ## 🔗 Let's Connect
 
-This was my first published game project — a Unity 5 Breakout clone built while learning the fundamentals through the "Creating a Breakout game for beginners" tutorial. After completing the core mechanics, I expanded on it by applying my own artistic direction and visual improvements.
+
+
+This was my first published game project — a Unity 5 Breakout clone built while learning the fundamentals through the **[Creating a Breakout game for beginners](https://www.youtube.com/watch?v=t_ahbdB0AnI)** tutorial. After completing the core mechanics, I expanded on it by applying my own artistic direction and visual improvements.
 
 It’s a small but meaningful milestone in my path as a developer and artist. If you're into game development, Unity, or visual design in games, feel free to reach out — I'd love to connect and exchange ideas!
 
